@@ -6,6 +6,7 @@
 | ------------------------------------------------------------------------------ | ---------------------- | ------------------------ |
 | [Mauricio Lineros](http://www.mauriciolineros.cl)                              | Mauricio Lineros       | General, Dev, Kanban     |
 | [Non-Driven Development](http://blog.nondrivendevelopment.com)                 | A. Felipe Cabargas     | Rails, UX, UI, Chile     |
+| [Ignacio Tolosa G](http://itolosa.github.io)                                  | Ignacio Tolosa G.      | Rails, Cloud, Longanizas |
 
 ##Markup
 
