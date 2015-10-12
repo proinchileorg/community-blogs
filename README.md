@@ -8,6 +8,7 @@
 | [Non-Driven Development](http://blog.nondrivendevelopment.com)                 | A. Felipe Cabargas     | Rails, UX, UI, Chile     |
 | [Ignacio Tolosa G](http://itolosa.github.io)                                   | Ignacio Tolosa G.      | Rails, Cloud, Longanizas |
 | [Nelson Pato Jimenez](http://patojimenez.io)                                   | Nelson Pato Jimenez    | Rails, AWS, Tips         |
+| [iCodeart](http://icodeart.com)                                   | Matias Andres | Programacion, General |
 
 ##Markup
 
