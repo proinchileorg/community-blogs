@@ -4,12 +4,11 @@
 
 | Nombre Blog                                                                    | Nombre Autor           | Tema(s)                  |
 | ------------------------------------------------------------------------------ | ---------------------- | ------------------------ |
-| [Mauricio Lineros](http://www.mauriciolineros.cl)                              | Mauricio Lineros       | General, Dev, Kanban     |
+| [Kevin Zelada](http://www.mauriciolineros.cl)                              |Kevin Zelada       | Programming, Technology, Business & Entrepreneurship    |
 | [Non-Driven Development](http://blog.nondrivendevelopment.com)                 | A. Felipe Cabargas     | Rails, UX, UI, Chile     |
 | [Ignacio Tolosa G](http://itolosa.github.io)                                   | Ignacio Tolosa G.      | Rails, Cloud, Longanizas |
-| [Nelson Pato Jimenez](http://patojimenez.io)                                   | Nelson Pato Jimenez    | Rails, AWS, Tips         |
-| [iCodeart](http://icodeart.com)                                   		 | Matias Andres 	  | Programacion, General    |
-| [Pia Gomez Q](http://ladynaru.wordpress.com)                                   | Pía Gómez Q. 	  | Frontend, Dev, UX, UI, Startup, Diseño, Tips, Chicas Geek |
+ 
+ 
 
 ##Markup
 
@@ -40,7 +39,7 @@ Uno de los administradores revisará el pull request y lo hará el merge si se s
 
 ```
 community-blogs
-Copyright (C) 2015 Programadores e Informáticos Chile
+Copyright (C) 2015-2018 Programadores e Informáticos Chile
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
