@@ -4,7 +4,7 @@
 
 | Nombre Blog                                                                    | Nombre Autor           | Tema(s)                  |
 | ------------------------------------------------------------------------------ | ---------------------- | ------------------------ |
-| [Kevin Zelada](http://www.mauriciolineros.cl)                              |Kevin Zelada       | Programming, Technology, Business & Entrepreneurship    |
+| [KevinZeladaCL](http://www.kevinzeladacl.cl)                              |Kevin Zelada       | Programming, Technology, Business & Entrepreneurship    |
 | [Non-Driven Development](http://blog.nondrivendevelopment.com)                 | A. Felipe Cabargas     | Rails, UX, UI, Chile     |
 | [Ignacio Tolosa G](http://itolosa.github.io)                                   | Ignacio Tolosa G.      | Rails, Cloud, Longanizas |
  
