@@ -1,16 +1,17 @@
-#Blogs de la Comunidad @proinchile
+# Blogs de la Comunidad @proinchile
 
-##Blogs
+## Blogs
 
 | Nombre Blog                                                                    | Nombre Autor           | Tema(s)                  |
 | ------------------------------------------------------------------------------ | ---------------------- | ------------------------ |
 | [KevinZeladaCL](http://www.kevinzeladacl.cl)                              |Kevin Zelada       | Programming, Technology, Business & Entrepreneurship    |
 | [Non-Driven Development](http://blog.nondrivendevelopment.com)                 | A. Felipe Cabargas     | Rails, UX, UI, Chile     |
 | [Ignacio Tolosa G](http://itolosa.github.io)                                   | Ignacio Tolosa G.      | Rails, Cloud, Longanizas |
+| [NoSoloProgramar](https://nosoloprogramar.com)                                        | Nicolás Gómez | Todas aquellas cosas que nadie te enseña (vender tus servicios, habilidades blandas, etc) |
  
  
 
-##Markup
+## Markup
 
 Este documento usa notación Markdown *extendida*. Para agregar un registro utilizar el siguiente formato:
 
@@ -20,7 +21,7 @@ Este documento usa notación Markdown *extendida*. Para agregar un registro util
 
 + Más información sobre Markdown en: [GitHub-Flavored Markdown Reference](https://help.github.com/articles/github-flavored-markdown/)
 
-##Contributing
+## Contributing
 
 Para agregar tu blog, mantén las guías de formato indicadas en **#Markup** y luego envía tu pull request a [https://github.com/proinchile/community-blogs](https://github.com/proinchile/community-blogs).
 
@@ -35,7 +36,7 @@ Uno de los administradores revisará el pull request y lo hará el merge si se s
 
 > This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
-##License
+## License
 
 ```
 community-blogs
